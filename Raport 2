@@ -1,0 +1,16 @@
+Raport 2 z projektu-cpp
+
+Po uruchomieniu gry, wyświetla się tło menu oraz 5 przycisków:
+
+Nowa Gra
+Wczytaj Gre
+Sterowanie
+O autorze
+Wyjscie
+
+Ponieważ mam trochę problemów z ustawieniem funkcjonalności tych przycisków, tak żeby
+po naiciśnięciu np. Nowa Gra zmieniała się "sceneria" i uruchamiała jakaś plansza, na razie
+działa tylko przycisk "Wyjscie", który wyłącza program, można to również zrobić przy
+pomocy klawisza escape.
+Grafika na następne etapy tworzenia jest powoli przygotowywana.
+Załączam screenshot "Raport2-screen".
