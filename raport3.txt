@@ -1,0 +1,21 @@
+Raport 3 z projektu-cpp
+
+Kamera przemieszcza siê wraz z poruszaniem siê postaci w prawo lub w lewo.
+Zablokowana jest mo¿liwoœæ poruszania siê poza mapê w lewo jak i równie¿
+gdy zostanie wykryta próba wykonania skoku za bardzo w górê, gdy postaæ dotrze
+do górnej krawêdzi, postaæ jest przestawiana z powrotem na drogê.
+
+Zosta³ zaimplementowany system zliczania punktów za zbieranie diamentów i na 
+bierz¹co w trakcie gry jest wyœwietlana ich zdobyta iloœæ. Po rozpoczêciu gry
+liczba punktów jest zerowana, a zebrane diamenty z powrotem pojawiaj¹ siê na mapie.
+
+Zosta³y dodane kolce i jeœli postaæ wejdzie z nimi w kontakt, automatycznie
+gracz przegrywa grê. Zostaje wyœwietlony napis Game Over oraz liczba zdobytych
+punktów/diamentów oraz przycisk powrotny do menu.
+
+Do gry zosta³y tak¿e dodane bloki, które bêd¹ s³u¿y³y jako platformy/œciany itp,
+jednak na razie nie s¹ wyœwietlane na mapie, poniewa¿ wci¹¿ próbujê
+stworzyæ system kolizji z nimi, tak aby postaæ nie mog³a przez nie przejœæ, ale
+mog³a za to na nie np wskoczyæ lub przesun¹æ.
+
+Zostaj¹ za³¹czone screenshoty "Raport3-screen1" oraz "Raport3-screen2".
